@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TicTacToe_LEOUD.iml" filepath="$PROJECT_DIR$/.idea/modules/TicTacToe_LEOUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TicTacToe_LEOUD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TicTacToe_LEOUD_main.iml" group="TicTacToe_LEOUD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TicTacToe_LEOUD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TicTacToe_LEOUD_test.iml" group="TicTacToe_LEOUD" />
+    </modules>
+  </component>
+</project>
